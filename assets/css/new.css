@@ -1,0 +1,15 @@
+
+.service-card{
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.24);
+    background: linear-gradient(to right bottom,white, rgb(221, 238, 245));
+}
+.back-top-btn {
+    box-shadow: 0px 0px 10px rgba(64, 139, 219, 0.54);
+
+}
+.container-gallery{
+    box-shadow: 0px 5px 20px rgba(21, 22, 23, 0.24);
+    padding: 20px;
+    background: linear-gradient(to right bottom,white, aliceblue);
+    border-radius: 10px;
+}
